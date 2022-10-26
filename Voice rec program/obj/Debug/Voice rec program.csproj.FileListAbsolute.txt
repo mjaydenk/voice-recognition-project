@@ -1,0 +1,9 @@
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\bin\Debug\Voice rec program.exe.config
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\bin\Debug\Voice rec program.exe
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\bin\Debug\Voice rec program.pdb
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\obj\Debug\Voice rec program.csprojResolveAssemblyReference.cache
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\obj\Debug\Voice_rec_program.pickPointFrm.resources
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\obj\Debug\Voice_rec_program.Properties.Resources.resources
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\obj\Debug\Voice rec program.csproj.GenerateResource.Cache
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\obj\Debug\Voice rec program.exe
+C:\Users\Jayden\C# Programs\Voice rec program\Voice rec program\obj\Debug\Voice rec program.pdb
